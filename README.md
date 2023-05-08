@@ -1,2 +1,2 @@
-# Meelsusanaluus
-Tartu Ülikooli õppeainete tagasiside meelsusanalüüs
+# Tartu Ülikooli õppeainete tagasiside meelsusanalüüs
+Valentsileksikon ja meelsusanalüüsiks vajalikud algoritmid
